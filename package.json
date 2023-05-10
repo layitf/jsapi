@@ -1,5 +1,5 @@
 {
-  "name": "jsapi",
+  "name": "@clwil/jsapi",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
